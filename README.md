@@ -10,13 +10,19 @@ This dataframe ingests a csv file containing 54,639 order transactions. It futhe
 1.) The first step was to review the raw data, ingest the file, and then explore that data within a dataframe to identify categories, subcategories, and clients. 2.) Next, the dataframe was transformed to produce various calculations to provide profitability insight into the most active clients. 3.) The next part of the design was to validate calculations against selected receipt data. 4.) The last step in the design was to summarize and analyze.
 
 # Summary of Findings:
-The data showed that the top five most active clients purchased 496,628 items, generated $123,556,060 in revenue, and contributed $48,045,451 to profit. A single client generated 48.3%, 66.6%, 76.1% and of those items respectively. There is significant concentration risk in the that one single client.
+The data showed that the top five most active clients purchased 496,628 items, generated $123,556,060 in revenue, and contributed $48,045,451 to profit. A single client generated 48.3%, 66.6%, and 76.1% of those items respectively. There is significant concentration risk in the that one single client.
 
 # Plagerism Statement:
 No specific code was copied but the sources below were referenced for examples and syntax. 
 
 # Sources:
 
-Lutz, M. (2013). Learning python: Powerful object-oriented programming. " O'Reilly Media, Inc.".
+Applying lambda row on multiple columns pandas. (n.d.). Stack Overflow. Retrieved April 4, 2024, from https://stackoverflow.com/questions/51080174/applying-lambda-row-on-multiple-columns-pandas
 
 Faculty, K.-S. C. (n.d.). Introduction to python. Introduction to Python. https://textbooks.cs.ksu.edu/intro-python/01-basic-python/index.html 
+
+Harrison, M. (2021). Effective Pandas: Patterns for Data Manipulation. Matt Harrison.
+
+Lutz, M. (2013). Learning python: Powerful object-oriented programming. " O'Reilly Media, Inc.".
+
+ Pandas groupby and apply aggregate function across rows. (n.d.). Stack Overflow. Retrieved April 4, 2024, from https://stackoverflow.com/questions/71209619/pandas-groupby-and-apply-aggregate-function-across-row 
