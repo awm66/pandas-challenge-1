@@ -2,7 +2,7 @@
 Week 4 Challenge
 
 # Grader Note: 
-The starter pack included two identical files, but with different names. The module_4_challenge.ipynb file was used for the solution.
+The code starter pack included two identical files, but with different names. The module_4_challenge.ipynb file was used for the solution. Please grade that file.
 
 # Functionality:
 This dataframe ingests a csv file containing 54,639 order transactions. It futher identifies the top three categories of orders, the subcategory with the greatest number of orders, and the top five most active clients. In addition, the original file is augmented with shipping cost, total cost, total sales price with tax, and total profit columns. Finally, the top five clients and their corresponding contribution to items purchased, shipping paid, total price, and total profit are displayed professionally.
