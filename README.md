@@ -16,7 +16,7 @@ This dataframe ingests a csv file containing 54,639 order transactions. It futhe
 4. The last step in the design was to *summarize and analyze*.
 
 # Summary of Findings:
-The data showed that the top five most active clients purchased 496,628 items, generated $123,556,060 in revenue, and contributed $48,045,451 to profit. A single client generated 48.3%, 66.6%, and 76.1% of those amounts respectively. There is significant concentration risk in the one single client.
+The data showed that the top five most active clients purchased 496,628 items, generated $123,556,060 in revenue, and contributed $48,045,451 to profit. A single client generated 48.3%, 66.6%, and 76.1% of those amounts respectively. There is significant concentration risk in the one single client. It is recommended to reduce the concentration risk of this single client.
 
 # Plagerism Statement:
 No specific code was copied but the sources below were referenced for examples and syntax. 
