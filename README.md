@@ -8,8 +8,8 @@ This dataframe ingests a csv file containing 54,639 order transactions. It futhe
 
 # Approach:
 1. The first step, *explore*, was to review the raw data, ingest the file, and then investigate that data within a dataframe to identify categories, subcategories, and clients. 
-2. Next, *transform*, the dataframe was updated to contain various calculations to provide profitability insight into the most active clients. 
-3. The next part of the design, *confirm*, was to validate calculations against selected receipt data. 
+2. In the next step, *transform*, the dataframe was updated to contain various calculations to provide profitability insight into the most active clients. 
+3. The third part of the design, *confirm*, was to validate calculations against selected receipt data. 
 4. The last step in the design was to *summarize and analyze*.
 
 # Summary of Findings:
