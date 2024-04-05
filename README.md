@@ -6,11 +6,11 @@ This dataframe ingests a csv file containing 54,639 order transactions. It futhe
 
 ![Screenshot](top_5_client_summary.png)
 
-# Design:
-1. The first step, explore, was to review the raw data, ingest the file, and then investigate that data within a dataframe to identify categories, subcategories, and clients. 
-2. Next, transform, the dataframe was updated to contain various calculations to provide profitability insight into the most active clients. 
-3. The next part of the design, confirm, was to validate calculations against selected receipt data. 
-4. The last step in the design was to summarize and analyze.
+# Approach:
+1. The first step, *explore*, was to review the raw data, ingest the file, and then investigate that data within a dataframe to identify categories, subcategories, and clients. 
+2. Next, *transform*, the dataframe was updated to contain various calculations to provide profitability insight into the most active clients. 
+3. The next part of the design, *confirm*, was to validate calculations against selected receipt data. 
+4. The last step in the design was to *summarize and analyze*.
 
 # Summary of Findings:
 The data showed that the top five most active clients purchased 496,628 items, generated $123,556,060 in revenue, and contributed $48,045,451 to profit. A single client generated 48.3%, 66.6%, and 76.1% of those amounts respectively. There is significant concentration risk in the one single client.
